@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pwd\desktop\lab 2\project1\source.cpp(63): warning C4715: 'CheckMemory': not all control paths return a value
+  Project1.vcxproj -> C:\Users\PWD\Desktop\Lab 2\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\PWD\Desktop\Lab 2\Debug\Project1.pdb (Partial PDB)
